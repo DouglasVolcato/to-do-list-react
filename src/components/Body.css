@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.Body__card{
+    border: solid 3px greenyellow;
+    
+}
